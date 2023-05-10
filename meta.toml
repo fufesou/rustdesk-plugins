@@ -1,0 +1,16 @@
+version = "v0.1.0"
+description = ""
+
+[[plugins]]
+id = "RustDesk.c.privacy-mode"
+name = "Privacy Mode"
+version = "v0.1.0"
+description = "This plugin can enable private mode to prevent others from seeing your operations."
+author = "RustDesk"
+home = ""
+license = "MIT"
+source = ""
+
+[plugins.publish_info]
+published = "2023-05-07 14:00:00"
+last_released = "2023-05-07 14:00:00"
