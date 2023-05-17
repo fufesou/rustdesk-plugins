@@ -6,6 +6,8 @@ id = "RustDesk.c.privacy-mode"
 name = "Privacy Mode"
 version = "v0.1.0"
 description = "This plugin can enable private mode to prevent others from seeing your operations."
+# to-do: The platforms may be split to the control side and the controlled side.
+platforms = "windows"
 author = "RustDesk"
 home = ""
 license = "MIT"
@@ -15,7 +17,7 @@ source = ""
 published = "2023-05-07 14:00:00"
 last_released = "2023-05-07 14:00:00"
 
-[plugins.platforms]
+# [plugins.platforms]
 # control means the control side.
 # controlled means the controled side.
-controlled = "windows"
+# controlled = "windows"
